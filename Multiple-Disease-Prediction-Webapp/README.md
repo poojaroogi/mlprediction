@@ -27,16 +27,11 @@ Please follow the below steps to run this project.
 6. [Jaundice disease dataset](https://kaggle.com/dataset2)
    
 
-### Trailer
-https://github.com/sohammanjrekar/rcoe22-sem5-group2/assets/83022701/b63635ef-3195-4282-9e90-0b05c659fbcc
 
-<br></br>
 
 ## Research Paper: Multiple Disease Prediction Webapp 
 - **Description:** A study that developed a web application capable of predicting multiple diseases, including diabetes, heart disease, Parkinson's, liver disease, jaundice, and hepatitis, using machine learning algorithms such as SVM, Decision Tree, and Random Forest. The system allows users to input data for a specific disease, and based on the trained model, the output is displayed. The paper also discusses the functional and non-functional requirements of the system, as well as the architecture design and implementation details.
-- [Online JETIR Paper](https://www.jetir.org/view?paper=JETIR2210432)
-- [Letter of Acceptance](https://drive.google.com/file/d/1TFkoafPQJmC3_-XekMwk_HUMa7PA89sq/view?usp=sharing)
-- [Certificate of Each Member](https://drive.google.com/file/d/1FVPssNXveIYHfmhjTETgvED6NeNBucPm/view?usp=sharing)
+
 
 
 ### References
